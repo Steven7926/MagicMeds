@@ -1,1 +1,1 @@
-# PillDispenserMobile
+# MagicMeds Mobile UI
