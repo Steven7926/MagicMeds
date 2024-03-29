@@ -11,6 +11,7 @@ web-build/
 google-services.json
 .idea
 .vs
+.expo
 package-lock.json
 node_modules
 # macOS
